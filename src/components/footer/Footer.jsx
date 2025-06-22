@@ -1,13 +1,11 @@
-import React from 'react'
-import './footer.css'
-import {FaFacebookF} from 'react-icons/fa'
-import {FiInstagram} from 'react-icons/fi'
-import {IoLogoTwitter} from 'react-icons/io'
+import React from "react";
+import "./footer.css";
+import { FaInstagram, FaTwitter, FaLinkedin, FaGithub } from "react-icons/fa";
 
 const Footer = () => {
   return (
     <footer>
-      <a href="/#" className='footer__logo'>ADI</a>
+      <a href="#main" className="footer__logo">Shubham Sharma</a>
 
       <ul className="permalinks">
         <li><a href="#main">Home</a></li>
@@ -15,21 +13,47 @@ const Footer = () => {
         <li><a href="#experience">Experience</a></li>
         <li><a href="#services">Services</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#testimonials">Testimonials</a></li>
+        <li><a href="#certifications">Certifications</a></li>
+        <li><a href="#exploring">Exploring</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
 
       <div className="footer__socials">
-        <a href="https://www.facebook.com/"><FaFacebookF/></a>
-        <a href="https://www.instagram.com/"><FiInstagram /></a>
-        <a href="https://www.twitter.com/"><IoLogoTwitter/></a>
+        <a
+          href="https://instagram.com/shubham1816sharma"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <FaInstagram />
+        </a>
+        <a
+          href="https://twitter.com/Shubham56114968"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <FaTwitter />
+        </a>
+        <a
+          href="https://linkedin.com/in/shubham-sharma-352576259"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <FaLinkedin />
+        </a>
+        <a
+          href="https://github.com/shubhamsharma39"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <FaGithub />
+        </a>
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; ADI Tutorials. All rights reserved</small>
+        <small>&copy; Shubham Sharma. All rights reserved.</small>
       </div>
     </footer>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;

@@ -5,24 +5,28 @@ import About from './components/about/About';
 import Experience from './components/experience/Experience';
 import Services from './components/services/Services';
 import Portfolio from './components/portfolio/Portfolio';
-import Testimonials from './components/testimonials/Testimonials';
+import Certifications from './components/certifications/Certifications';
+import Education from './components/education/Education'; // ✅ New
+import Exploring from './components/exploring/Exploring';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 
 const App = () => {
-  return(
+  return (
     <>
-      <Header/>
+      <Header />
       <Nav />
       <About />
       <Experience />
       <Services />
       <Portfolio />
-      <Testimonials />
+      <Certifications />
+      <Education /> {/* ✅ Added */}
+      <Exploring />
       <Contact />
       <Footer />
     </>
-  )
+  );
 };
 
 export default App;

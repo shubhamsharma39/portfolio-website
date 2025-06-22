@@ -22,27 +22,31 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
-              <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <h5>Learning</h5>
+              <small>6+ Months Learning Devops </small>
             </article>
 
             <article className="about__card">
               <FiUsers className="about__icon" />
-              <h5>Clients</h5>
-              <small>200+ Clients Worldwide</small>
+              <h5>Groups</h5>
+              <small>5+ Groups Combine works real-world project</small>
             </article>
 
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>80+ Completed Projects</small>
+              <small>10+ Completed Projects</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Accusantium neque veritatis temporibus dolor soluta cumque facere
-            dolorem distinctio a est?
+            <p>
+                I’m a Computer Science graduate with a passion for DevOps and cloud-native technologies. 
+                 I’ve worked on projects involving Docker, Jenkins, and AWS, 
+                 and have hands-on experience building CI/CD pipelines and monitoring infrastructure. 
+                 I’ve also contributed to AI/ML-based apps and enjoy exploring automation tools. 
+</p>
+
           </p>
 
           <a href="#contact" className="btn btn-primary">
