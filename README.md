@@ -50,3 +50,23 @@ git clone https://github.com/shubhamsharma39/Portfolio-Website.git
 cd Portfolio-Website
 npm install
 npm start
+
+ Resume Summary (Use in LinkedIn/About Section)
+
+🚀 I'm Shubham Sharma, a B.Tech CSE (AI/ML) graduate with hands-on DevOps & full-stack development experience.
+I've built and deployed scalable projects using React, Node, MongoDB, Docker, Jenkins, and AWS.
+I’m a proactive team player, sports enthusiast, and passionate about automation and cloud-native solutions.
+
+🙏 Acknowledgments
+
+This project is inspired by open-source designs and my own journey in tech.
+Feel free to fork and use it for your own portfolio!
+
+🔗 Links
+🖥️ Live Site: singular-semifreddo-b2e980.netlify.app
+
+💻 GitHub Repo: github.com/shubhamsharma39/Portfolio-Website
+
+👨‍💼 LinkedIn: linkedin.com/in/www.linkedin.com/in/shubham-sharma-352576259
+
+
