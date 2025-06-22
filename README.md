@@ -4,13 +4,17 @@ Welcome to my **personal portfolio website** built using React.js & custom CSS.
 Live Here 👉 [https://singular-semifreddo-b2e980.netlify.app](https://singular-semifreddo-b2e980.netlify.app)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9b4909ef-905e-4bc5-b5d7-1234567890de/deploy-status)](https://app.netlify.com/sites/singular-semifreddo-b2e980/deploys)
+
 [![GitHub](https://img.shields.io/badge/GitHub-shubhamsharma39-181717?style=flat&logo=github)](https://github.com/shubhamsharma39)
 
 ---
 
 ## 📸 Preview
 
-![Landing Page](https://github.com/aadepeng/portfolio_1/blob/main/Portfolio.png?raw=true)
+## 📸 Preview
+
+![Portfolio Preview](https://github.com/shubhamsharma39/portfolio-website/blob/main/src/portfolio-preview.png?raw=true)
+
 
 ---
 
