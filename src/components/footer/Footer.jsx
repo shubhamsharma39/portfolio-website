@@ -4,6 +4,7 @@ import { FaInstagram, FaTwitter, FaLinkedin, FaGithub } from "react-icons/fa";
 
 const Footer = () => {
   return (
+    <div className="footer_container">
     <footer>
       <a href="#main" className="footer__logo">Shubham Sharma</a>
 
@@ -53,6 +54,7 @@ const Footer = () => {
         <small>&copy; Shubham Sharma. All rights reserved.</small>
       </div>
     </footer>
+    </div>
   );
 };
 

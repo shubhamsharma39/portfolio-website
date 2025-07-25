@@ -36,7 +36,10 @@ html {
 body {
     font-family: 'Poppins', sans-serif;
     background: var(--color-bg);
+    width: 100%;
     color: var(--color-white);
+    overflow-x: hidden;
+    overflow-y: scroll;
     line-height: 1.7;
     background-image: url(../src//assets/bg-texture.png);
 }
@@ -131,5 +134,16 @@ img {
 
     section>h2 {
         margin-bottom: 2rem;
+    }
+
+    
+    
+
+    #root {
+       width: 100%;
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+       justify-content: center;
     }
 }

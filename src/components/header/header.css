@@ -1,7 +1,10 @@
+
+
 header {
     height: 100vh;
     padding-top: 7rem;
     overflow: hidden;
+    width: 100%;
 }
 
 .header_container {
@@ -43,7 +46,9 @@ header {
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
+    padding: 1rem 1.5rem 1.5rem 1.5rem;
+    background-color: red;
+    
 }
 
 .scroll__down{
@@ -58,13 +63,13 @@ header {
 
 @media screen and (max-width: 1024px) {
     header{
-        height: 68vh;
+        height: 47rem;
     }
 }
 
 @media screen and (max-width: 600px) {
     header{
-        height: 100vh;
+        height: 47rem;
     }
 
     .header__socials,

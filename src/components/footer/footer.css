@@ -4,7 +4,14 @@ footer {
     text-align: center;
     font-size: 0.9rem;
     margin-top: 7rem;
+    margin-bottom: 7rem;
+    border-radius: 40px;
 }
+
+.footer_container {
+    padding: 0 5%;
+}
+
 
 footer a{
     color: var(--color-bg);
@@ -61,5 +68,9 @@ footer a{
 
     .footer__socials{
         margin-bottom: 2.6rem;
+    }
+
+    footer {
+        padding: 2rem;
     }
 }

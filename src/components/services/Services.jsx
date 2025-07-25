@@ -8,7 +8,7 @@ const Services = () => {
       <h5>What I Can Do</h5>
       <h2>Services</h2>
 
-      <div className="container services__container">
+      <div className=" services__container">
 
         {/* CI/CD Pipeline Setup */}
         <article className="service">
