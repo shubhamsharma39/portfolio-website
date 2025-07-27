@@ -14,7 +14,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <a href="https://github.com/shubhamsharma39" target="_blank">
+            <a href="https://github.com/shubhamsharma39" target="_blank" rel="noopener noreferrer">
             <img src={ME} alt="About Img" />
             </a>
           </div>
