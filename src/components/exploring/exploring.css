@@ -32,6 +32,8 @@
     background: var(--color-primary);
 }
 
+
+
 @media screen and (max-width: 1024px) {
     .container.testimonials__container {
         width: 60%;
@@ -39,8 +41,12 @@
 }
 
 @media screen and (max-width: 600px) {
+    
+    #exploring {
+        width: 100%;
+    }
     .container.testimonials__container {
-        width: var(--container-width-sm);
+        width: 94%;
     }
 
     .client__review {

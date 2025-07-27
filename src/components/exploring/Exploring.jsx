@@ -50,7 +50,7 @@ const Exploring = () => {
         spaceBetween={40}
         slidesPerView={1}
         pagination={{ clickable: true }}
-        className="container testimonials__container"
+        className="container explorer_container testimonials__container"
       >
         {data.map(({ avatar, name, review }, index) => (
           <SwiperSlide key={index} className="testimonial">
