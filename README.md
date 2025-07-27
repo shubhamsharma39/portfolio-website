@@ -38,9 +38,9 @@ It’s a modern, mobile-responsive React app showcasing my DevOps and full-stack
 
 - ⚛️ React.js
 - 🎨 Custom CSS
-- 🐳 Docker (used in other projects)
-- ☁️ AWS EC2, Netlify (for deployment)
-- 🔧 DevOps Tools: GitHub Actions, Jenkins, SonarQube, Trivy
+- 🐳 Docker 
+- ☁️ AWS EC2, Netlify
+- 🔧 DevOps Tools: GitHub Actions, Jenkins.
 
 ---
 
